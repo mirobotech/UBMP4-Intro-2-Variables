@@ -23,9 +23,6 @@
 // TODO Set linker ROM ranges to 'default,-0-7FF' under "Memory model" pull-down.
 // TODO Set linker code offset to '800' under "Additional options" pull-down.
 
-// The main function is a required part of every C program. The microcontroller
-// begins executing the program starting at the first line in the main function.
-
 // Program constant definitions
 const unsigned char maxCount = 50;
 
